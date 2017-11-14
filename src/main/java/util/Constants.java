@@ -1,8 +1,6 @@
 package util;
 
-import java.util.stream.Stream;
-
-public class Constants {
+public final class Constants {
 
     //dateTime constants
     public static final String DATE_PATTERN = "yyyy-MM-dd";
