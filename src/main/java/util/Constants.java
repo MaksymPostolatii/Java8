@@ -43,12 +43,15 @@ public final class Constants {
     //functionalInterface constants
     public static final String MESSAGE_FROM_DEFAULT_METHOD = "Message from default method";
     public static final String MESSAGE_FROM_OVERRIDE_METHOD = "Message from override method";
+    public static final String CHRONIC_RELEASE_ARABIC = "%s release year (arabic): %d";
+    public static final String CHRONIC_RELEASE_ROMAN = "%s release year (roman): %s";
 
     //main
-    public static final String DIVIDER = "\n*********************\n%s\n*********************\n";
+    public static final String DIVIDER = "\n*****************************\n%s\n*****************************\n";
     public static final String DATE_TIME = "DateTime API";
     public static final String OPTIONAL = "Optional class";
     public static final String FUNCTIONAL_INTERFACE = "Functional interface";
+    public static final String FUNCTIONAL_INTERFACE_UPDATED = "Functional interface updated";
 
     private Constants() {
     }
